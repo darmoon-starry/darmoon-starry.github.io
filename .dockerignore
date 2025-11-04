@@ -1,0 +1,24 @@
+# 版本控制
+.git
+.gitignore
+
+# Jekyll 生成的文件
+_site
+.jekyll-cache
+.jekyll-metadata
+
+# 依赖目录
+vendor
+node_modules
+bundle
+
+# 系统文件
+.DS_Store
+Thumbs.db
+
+# 日志文件
+*.log
+
+# 临时文件
+*.tmp
+*.temp
